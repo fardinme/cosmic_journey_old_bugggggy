@@ -9,6 +9,16 @@ NB :
 
 Use Mannual :
 
+Controll The Ship :
+
+W-Engage Ship
+A-Turn Left
+D-Turn Right
+Q-Circle From KEft
+E-Circle From Right
+R-GO UP
+F-GO Down
+
 
 Download the whole folder which include 
 
